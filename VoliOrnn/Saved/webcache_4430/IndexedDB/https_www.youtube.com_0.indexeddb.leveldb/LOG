@@ -1,0 +1,6 @@
+2023/01/14-13:45:33.326 e7c Creating DB C:/Users/Ilyes/Documents/GitHub/VoliOrnn/VoliOrnn/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/01/14-13:45:33.343 e7c Reusing MANIFEST C:/Users/Ilyes/Documents/GitHub/VoliOrnn/VoliOrnn/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/14-13:48:10.243 42cc Level-0 table #5: started
+2023/01/14-13:48:10.248 42cc Level-0 table #5: 10163 bytes OK
+2023/01/14-13:48:10.252 42cc Delete type=0 #3
+2023/01/14-13:48:10.252 42cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
